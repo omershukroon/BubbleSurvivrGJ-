@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 593d48167bb18b843a46f090eca29736
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponInHand: {instanceID: 0}
+  - thrownWeaponPrefab: {fileID: 2928066447217319497, guid: 8b48805469151ff43b7edd6d0118b3bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eed0775e74f4c524e8ddc5d761b0e397
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BuffGem3Prefab: {fileID: 474262493544190423, guid: 6a6945fc4411f1f48984dfc9ff64061c, type: 3}
+  - BuffGem4Prefab: {fileID: 9201422567970043127, guid: 2650e6b7bb915da4db77b6f3baf89ca8, type: 3}
+  - BuffGem7Prefab: {fileID: 4905398943503536665, guid: 92187fbea3e4dae4980ac22c3fd5274e, type: 3}
+  - BuffGem10Prefab: {fileID: 6508174237742930719, guid: 68e959de19468ea4dacbe950944f3b6d, type: 3}
+  - RocksBuff: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

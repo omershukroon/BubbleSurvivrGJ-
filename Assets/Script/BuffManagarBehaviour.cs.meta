@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b91746715eb53f42a6e8f1f6d5d9b77
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BuffGem3Prefab: {fileID: 474262493544190423, guid: 6a6945fc4411f1f48984dfc9ff64061c, type: 3}
+  - BuffGem4Prefab: {instanceID: 0}
+  - BuffGem7Prefab: {instanceID: 0}
+  - BuffGem10Prefab: {instanceID: 0}
+  - RocksBuff: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
