@@ -181,8 +181,7 @@ MonoBehaviour:
   PlayerBehaviour: {fileID: 1358296963}
   WeaponBehaviour: {fileID: 244542019}
   contentTransform: {fileID: 214642277}
-  currentBuffObject: 0
-  currentBuffType: 0
+  BuffSpawnSpeed: 1
 --- !u!1001 &99460483
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6991,6 +6990,10 @@ PrefabInstance:
     - target: {fileID: 6204828893999650827, guid: c55c7dbe8c5623443923817e8a1a7721, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722362002295703973, guid: c55c7dbe8c5623443923817e8a1a7721, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
