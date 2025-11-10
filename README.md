@@ -10,7 +10,11 @@ Inspired by *Bubble Trouble*, we decided to create a new twist with full field m
 ---
 
 ## 🎥 Demo Video  
-[![Watch the demo](https://github.com/omershukroon/BubbleSurvivrGJ-/blob/main/Media/gameplay_preview.png?raw=true)](https://drive.google.com/file/d/1g77jFDMVl8_TTmQ8A_4alHriZxvtj3be/view)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1g77jFDMVl8_TTmQ8A_4alHriZxvtj3be/view">
+    <img src="https://github.com/omershukroon/BubbleSurvivrGJ-/blob/main/Media/gameplay_preview.png?raw=true" width="600" alt="Watch the demo"/>
+  </a>
+</p>
 
 ---
 
